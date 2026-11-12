@@ -4,7 +4,7 @@ import sqlite3
 from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 
-TOKEN = "ТВОЙ_ТОКЕН_БОТА_ОТ_BOTFATHER"
+TOKEN = "9209600747:AAE98UHgY9jSjm8ZXATeeLsnMtP4YZpXojo"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
